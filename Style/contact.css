@@ -11,3 +11,8 @@ p[id = "checker"]
 {
     text-align: center;
 }
+a.email {
+  color: blue;
+  text-align: center;
+  font-size: large;
+}
